@@ -2,7 +2,7 @@
  
 I'm an **AI/ML Engineer** with an MS in Computer Science from the University of Pittsburgh. 
  
-My work sits at the intersection of engineering and research. Currently into building LLM agents, retrieval systems, and data pipelines. 
+My work sits at the intersection of engineering and research. My interests are in LLM agents, retrieval systems, multimodal learning, and applied AI/ML research.
  
 ### What I work on 👩🏻‍💻
  
@@ -10,10 +10,18 @@ My work sits at the intersection of engineering and research. Currently into bui
 - **Applied ML & Computer Vision** - vision-language pipelines, defect detection, multimodal learning
 - **NLP** - weak supervision, large-scale text analysis, retrieval-augmented generation
 - **Cloud & Data** - Serverless data pipelines
-   
-### Fun facts
- 
-- 🥾 I love nature and spend as much time as I can in national parks
-- 🏊 Swimming is my reset button
+  
+### Core Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 🌿 Outside of Tech
+
+I love exploring national parks 🥾, and swimming is my reset button 🏊.
 
 #### Let's connect 🤝 [LinkedIn](https://www.linkedin.com/in/anveshika-kamble-706087113/) | ark411@pitt.edu | anveshikakamble@gmail.com | [Google Scholar](https://scholar.google.com/citations?user=au7tOhUAAAAJ&hl=en)
