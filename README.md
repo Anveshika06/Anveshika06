@@ -22,6 +22,6 @@ My work sits at the intersection of engineering and research. My interests are i
 
 ### 🌿 Outside of Tech
 
-I love exploring national parks 🥾, and swimming is my reset button 🏊.
+I love exploring national parks 🥾, watching anime and swimming is my reset button 🏊.
 
 #### Let's connect 🤝 [LinkedIn](https://www.linkedin.com/in/anveshika-kamble-706087113/) | ark411@pitt.edu | anveshikakamble@gmail.com | [Google Scholar](https://scholar.google.com/citations?user=au7tOhUAAAAJ&hl=en)
